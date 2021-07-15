@@ -1,0 +1,59 @@
+1. True and True
+Ans. True
+
+2. False and True
+Ans. False
+
+3. 1 == 1 and 2 == 1
+Ans. False
+
+4."test" == "test"
+Ans. True
+
+5. 1 == 1 or 2 != 1
+Ans. True
+
+6. True and 1 == 1
+Ans. True
+
+7. False and 0 != 0
+Ans. False
+
+8. True or 1 == 1
+Ans. True
+
+9. "test" == "testing"
+Ans. False
+
+10. 1 != 0 and 2 == 1
+Ans. False
+
+11. "test" != "testing"
+Ans. True
+
+12. "test" == 1
+Ans. False
+
+13. not (True and False)
+Ans. True
+
+14. not(1 == 1 and 0 != 1)
+Ans. True
+
+15. not (10 == 1 or 1000 == 1000)
+Ans. False
+
+16. not (1 != 10 or 3 == 4)
+Ans. False
+
+17. not ("testing" == "testing" and "Zed" == "Cool Guy")
+Ans. True
+
+18. 1 == 1 and (not ("testing" == 1 or 1 == 0))
+Ans. False
+
+19. "chunky" == "bacon" and (not (3 == 4 or 3 == 3))
+Ans. False
+
+20. 3 == 3 and (not ("testing" == "testing" or "Python" == "Fun"))
+Ans. False
